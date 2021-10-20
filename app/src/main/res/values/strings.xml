@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnalisisII</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="nameApp">Analisis II</string>
+    <string name="buttonLogin">Ingresar</string>
+</resources>

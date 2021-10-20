@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para el splash screen de la aplicacion -->
+    <style name="ActivitySplashScreen" parent="Theme.AppCompat.Light.NoActionBar"></style>
+</resources>
